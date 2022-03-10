@@ -1,4 +1,5 @@
 # Whiteboarding prompts
+##### (Thanks to Edabit.com for supplying them)
 ---
 ---
 ### Area of a Triangle
